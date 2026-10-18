@@ -5,4 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/dharsiddharth711-pixel/LeetCode_soln./tree/master/0058-length-of-last-word) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dharsiddharth711-pixel/LeetCode_soln./tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dharsiddharth711-pixel/LeetCode_soln./tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dharsiddharth711-pixel/LeetCode_soln./tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
